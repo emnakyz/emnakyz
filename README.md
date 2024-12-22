@@ -8,10 +8,10 @@ My journey in software development began at Maltepe University. Currently, I am 
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  NodeJS ,C# Asp.Net Mvc Framework,C# Asp.Net Core Mvc,C# Asp.Net Core Web Api,Java,Javascript,Jquery             
+-  **BackEnd:**  NodeJS, C# Asp.Net Mvc Framework, C# Asp.Net Core Mvc, C# Asp.Net Core Web Api, Java            
 -  **Queue-Cache:**  RabbitMQ, Redis
 -  **DevOps:**  Docker
--  **FrontEnd:**  Angular,Html,Css
+-  **FrontEnd:**  Angular,Html,Css,Javascript,Jquery 
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB)
 -  **Version Control Systems:** GitLab,Github,Bitbucket,TFS
 
